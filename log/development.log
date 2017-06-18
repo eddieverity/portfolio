@@ -48033,4 +48033,2555 @@ Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e
 Started GET "/assets/WWFEJOuP-1bcbdac38233af94014e2d7c9b75d27f03fca4c97e6e41d64c2352e25a466cba.ico" for ::1 at 2017-06-18 09:07:06 -0500
 =======
 >>>>>>> e3bda703b29a5f91241211d2ccce5027fbf431e8
+<<<<<<< HEAD
+
+
+Started GET "/" for 216.80.4.142 at 2017-06-16 21:48:49 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.2ms)
+  Rendered creatives/_header.html.erb (0.2ms)
+  Rendered creatives/_bg_primary.html.erb (0.2ms)
+  Rendered creatives/_services.html.erb (109.2ms)
+  Rendered creatives/_portfolio.html.erb (4.4ms)
+  Rendered creatives/_call_to_action.html.erb (0.2ms)
+  Rendered creatives/_contact.html.erb (3.2ms)
+  Rendered creatives/index.html.erb within layouts/creative (122.5ms)
+Completed 200 OK in 310ms (Views: 302.3ms)
+
+
+Started GET "/assets/bootstrap.self-538413f2cf001655557422253196a01792ad30eff3f21d3b66bcef96d7b13b1c.css?body=1" for 216.80.4.142 at 2017-06-16 21:48:49 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/font_awesome.self-fd90094892657a5396a180451e35662e84d921cf80bd9389e8536f3b0e61a2e5.css?body=1" for 216.80.4.142 at 2017-06-16 21:48:49 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/animate.min.self-d04e1da8392d69e638ac341edf534822660cf7dd95d0edb0e1b8e072f8ffea7a.css?body=1" for 216.80.4.142 at 2017-06-16 21:48:49 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-52101b9d7a2a6712170da3d1e60ffd0869ed9b0fc5f83387c685f418cb5961bc.css?body=1" for 216.80.4.142 at 2017-06-16 21:48:49 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-10d0842ad7cee9931716511b25975c40f4ec7d1c0c06ebced476d5def759da58.css?body=1" for 216.80.4.142 at 2017-06-16 21:48:49 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:49 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:49 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 216.80.4.142 at 2017-06-16 21:48:50 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (6.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (23.6ms)
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/1-a9398f0106ae37f2b40b2c224a7f8c91abfb3056a1e1e9b64031f3af1c8b5ece.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (5.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (33.5ms)
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 216.80.4.142 at 2017-06-16 21:48:51 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/WWFEJOuP-1bcbdac38233af94014e2d7c9b75d27f03fca4c97e6e41d64c2352e25a466cba.ico" for 216.80.4.142 at 2017-06-16 21:48:52 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 216.80.4.142 at 2017-06-16 21:49:20 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (25.0ms)
+  Rendered creatives/_portfolio.html.erb (4.2ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (3.3ms)
+  Rendered creatives/index.html.erb within layouts/creative (35.3ms)
+Completed 200 OK in 82ms (Views: 82.0ms)
+
+
+Started GET "/assets/font_awesome.self-fd90094892657a5396a180451e35662e84d921cf80bd9389e8536f3b0e61a2e5.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:20 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/animate.min.self-d04e1da8392d69e638ac341edf534822660cf7dd95d0edb0e1b8e072f8ffea7a.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:20 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-52101b9d7a2a6712170da3d1e60ffd0869ed9b0fc5f83387c685f418cb5961bc.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:20 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-538413f2cf001655557422253196a01792ad30eff3f21d3b66bcef96d7b13b1c.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:20 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-10d0842ad7cee9931716511b25975c40f4ec7d1c0c06ebced476d5def759da58.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:20 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:20 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:21 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:21 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:21 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:21 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:21 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:21 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:21 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:21 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:22 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 216.80.4.142 at 2017-06-16 21:49:22 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 216.80.4.142 at 2017-06-16 21:49:22 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 216.80.4.142 at 2017-06-16 21:49:22 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:22 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:22 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 216.80.4.142 at 2017-06-16 21:49:22 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 216.80.4.142 at 2017-06-16 21:49:23 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:23 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 216.80.4.142 at 2017-06-16 21:49:23 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:23 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 216.80.4.142 at 2017-06-16 21:49:23 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:23 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 216.80.4.142 at 2017-06-16 21:49:23 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:23 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 216.80.4.142 at 2017-06-16 21:49:25 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (20.9ms)
+  Rendered creatives/_portfolio.html.erb (3.9ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.7ms)
+  Rendered creatives/index.html.erb within layouts/creative (29.9ms)
+Completed 200 OK in 69ms (Views: 69.0ms)
+
+
+Started GET "/assets/font_awesome.self-fd90094892657a5396a180451e35662e84d921cf80bd9389e8536f3b0e61a2e5.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/animate.min.self-d04e1da8392d69e638ac341edf534822660cf7dd95d0edb0e1b8e072f8ffea7a.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-52101b9d7a2a6712170da3d1e60ffd0869ed9b0fc5f83387c685f418cb5961bc.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-10d0842ad7cee9931716511b25975c40f4ec7d1c0c06ebced476d5def759da58.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-538413f2cf001655557422253196a01792ad30eff3f21d3b66bcef96d7b13b1c.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:26 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:27 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 216.80.4.142 at 2017-06-16 21:49:27 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 216.80.4.142 at 2017-06-16 21:49:27 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:27 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:27 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 216.80.4.142 at 2017-06-16 21:49:27 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 216.80.4.142 at 2017-06-16 21:49:28 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (16.7ms)
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/1-a9398f0106ae37f2b40b2c224a7f8c91abfb3056a1e1e9b64031f3af1c8b5ece.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (16.6ms)
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for 216.80.4.142 at 2017-06-16 21:49:29 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 216.80.4.142 at 2017-06-16 21:49:41 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (21.5ms)
+  Rendered creatives/_portfolio.html.erb (3.8ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.8ms)
+  Rendered creatives/index.html.erb within layouts/creative (30.5ms)
+Completed 200 OK in 70ms (Views: 70.1ms)
+
+
+Started GET "/assets/bootstrap.self-538413f2cf001655557422253196a01792ad30eff3f21d3b66bcef96d7b13b1c.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:41 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/animate.min.self-d04e1da8392d69e638ac341edf534822660cf7dd95d0edb0e1b8e072f8ffea7a.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:41 +0000
+
+
+Started GET "/assets/creative/creative.self-52101b9d7a2a6712170da3d1e60ffd0869ed9b0fc5f83387c685f418cb5961bc.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:41 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/font_awesome.self-fd90094892657a5396a180451e35662e84d921cf80bd9389e8536f3b0e61a2e5.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:41 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-10d0842ad7cee9931716511b25975c40f4ec7d1c0c06ebced476d5def759da58.css?body=1" for 216.80.4.142 at 2017-06-16 21:49:41 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:42 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:42 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:42 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:42 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:42 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:42 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:42 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:42 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:42 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:42 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 216.80.4.142 at 2017-06-16 21:49:43 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:43 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 216.80.4.142 at 2017-06-16 21:49:43 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 216.80.4.142 at 2017-06-16 21:49:43 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:43 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 216.80.4.142 at 2017-06-16 21:49:43 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 216.80.4.142 at 2017-06-16 21:49:44 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (17.2ms)
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/1-a9398f0106ae37f2b40b2c224a7f8c91abfb3056a1e1e9b64031f3af1c8b5ece.png" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 216.80.4.142 at 2017-06-16 21:49:45 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 216.80.4.142 at 2017-06-16 21:49:46 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for 216.80.4.142 at 2017-06-16 21:49:47 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for 216.80.4.142 at 2017-06-16 21:49:47 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 216.80.4.142 at 2017-06-16 21:49:47 +0000
+Cannot render console from 216.80.4.142! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (17.0ms)
+
+
+Started GET "/" for 108.174.5.116 at 2017-06-16 21:50:52 +0000
+Cannot render console from 108.174.5.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (25.2ms)
+  Rendered creatives/_portfolio.html.erb (4.0ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.9ms)
+  Rendered creatives/index.html.erb within layouts/creative (34.6ms)
+Completed 200 OK in 71ms (Views: 71.0ms)
+
+
+Started GET "/" for 108.174.5.116 at 2017-06-16 21:51:04 +0000
+Cannot render console from 108.174.5.116! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.1ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (20.6ms)
+  Rendered creatives/_portfolio.html.erb (3.4ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.6ms)
+  Rendered creatives/index.html.erb within layouts/creative (29.1ms)
+Completed 200 OK in 66ms (Views: 66.2ms)
+
+
+Started GET "/" for 172.56.11.160 at 2017-06-16 22:24:38 +0000
+Cannot render console from 172.56.11.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (22.6ms)
+  Rendered creatives/_portfolio.html.erb (3.7ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.9ms)
+  Rendered creatives/index.html.erb within layouts/creative (31.6ms)
+Completed 200 OK in 74ms (Views: 73.9ms)
+
+
+Started GET "/images/creative/badges/mong.jpg" for 172.56.11.160 at 2017-06-16 22:24:38 +0000
+Cannot render console from 172.56.11.160! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (16.8ms)
+
+
+Started GET "/" for 107.77.85.110 at 2017-06-16 22:35:45 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (20.5ms)
+  Rendered creatives/_portfolio.html.erb (3.5ms)
+  Rendered creatives/_call_to_action.html.erb (0.1ms)
+  Rendered creatives/_contact.html.erb (2.5ms)
+  Rendered creatives/index.html.erb within layouts/creative (29.2ms)
+Completed 200 OK in 65ms (Views: 65.3ms)
+
+
+Started GET "/assets/creative/creative.self-52101b9d7a2a6712170da3d1e60ffd0869ed9b0fc5f83387c685f418cb5961bc.css?body=1" for 107.77.85.110 at 2017-06-16 22:35:45 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/font_awesome.self-fd90094892657a5396a180451e35662e84d921cf80bd9389e8536f3b0e61a2e5.css?body=1" for 107.77.85.110 at 2017-06-16 22:35:45 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-538413f2cf001655557422253196a01792ad30eff3f21d3b66bcef96d7b13b1c.css?body=1" for 107.77.85.110 at 2017-06-16 22:35:45 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/animate.min.self-d04e1da8392d69e638ac341edf534822660cf7dd95d0edb0e1b8e072f8ffea7a.css?body=1" for 107.77.85.110 at 2017-06-16 22:35:45 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-10d0842ad7cee9931716511b25975c40f4ec7d1c0c06ebced476d5def759da58.css?body=1" for 107.77.85.110 at 2017-06-16 22:35:46 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 107.77.85.110 at 2017-06-16 22:35:46 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 107.77.85.110 at 2017-06-16 22:35:46 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 107.77.85.110 at 2017-06-16 22:35:46 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 107.77.85.110 at 2017-06-16 22:35:46 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 107.77.85.110 at 2017-06-16 22:35:46 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 107.77.85.110 at 2017-06-16 22:35:47 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 107.77.85.110 at 2017-06-16 22:35:47 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 107.77.85.110 at 2017-06-16 22:35:47 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 107.77.85.110 at 2017-06-16 22:35:47 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 107.77.85.110 at 2017-06-16 22:35:47 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 107.77.85.110 at 2017-06-16 22:35:47 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 107.77.85.110 at 2017-06-16 22:35:47 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 107.77.85.110 at 2017-06-16 22:35:47 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 107.77.85.110 at 2017-06-16 22:35:47 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (4.6ms)
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (5.1ms)
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (37.7ms)
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/1-a9398f0106ae37f2b40b2c224a7f8c91abfb3056a1e1e9b64031f3af1c8b5ece.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 107.77.85.110 at 2017-06-16 22:35:48 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for 107.77.85.110 at 2017-06-16 22:35:49 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for 107.77.85.110 at 2017-06-16 22:35:50 +0000
+Cannot render console from 107.77.85.110! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 45.58.41.60 at 2017-06-16 22:57:56 +0000
+Cannot render console from 45.58.41.60! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (22.5ms)
+  Rendered creatives/_portfolio.html.erb (3.3ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.5ms)
+  Rendered creatives/index.html.erb within layouts/creative (30.6ms)
+Completed 200 OK in 72ms (Views: 72.2ms)
+
+
+Started GET "/" for 107.193.192.125 at 2017-06-16 23:24:37 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.1ms)
+  Rendered creatives/_services.html.erb (21.1ms)
+  Rendered creatives/_portfolio.html.erb (3.6ms)
+  Rendered creatives/_call_to_action.html.erb (0.1ms)
+  Rendered creatives/_contact.html.erb (2.7ms)
+  Rendered creatives/index.html.erb within layouts/creative (29.9ms)
+Completed 200 OK in 68ms (Views: 67.3ms)
+
+
+Started GET "/images/creative/badges/mong.jpg" for 107.193.192.125 at 2017-06-16 23:24:37 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (16.5ms)
+
+
+Started GET "/" for 66.249.64.2 at 2017-06-17 00:03:02 +0000
+Cannot render console from 66.249.64.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (22.6ms)
+  Rendered creatives/_portfolio.html.erb (3.6ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.8ms)
+  Rendered creatives/index.html.erb within layouts/creative (31.5ms)
+Completed 200 OK in 75ms (Views: 74.7ms)
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 66.249.64.2 at 2017-06-17 00:03:05 +0000
+Cannot render console from 66.249.64.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 66.249.64.2 at 2017-06-17 00:03:05 +0000
+Cannot render console from 66.249.64.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-52101b9d7a2a6712170da3d1e60ffd0869ed9b0fc5f83387c685f418cb5961bc.css?body=1" for 66.249.64.31 at 2017-06-17 00:03:05 +0000
+Cannot render console from 66.249.64.31! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 66.249.64.4 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-10d0842ad7cee9931716511b25975c40f4ec7d1c0c06ebced476d5def759da58.css?body=1" for 66.249.64.31 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.31! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 66.249.64.31 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.31! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/font_awesome.self-fd90094892657a5396a180451e35662e84d921cf80bd9389e8536f3b0e61a2e5.css?body=1" for 66.249.64.4 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.4! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 66.249.64.2 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 66.249.64.31 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.31! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 66.249.64.2 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 66.249.64.31 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.31! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/animate.min.self-d04e1da8392d69e638ac341edf534822660cf7dd95d0edb0e1b8e072f8ffea7a.css?body=1" for 66.249.64.2 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 66.249.64.2 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-538413f2cf001655557422253196a01792ad30eff3f21d3b66bcef96d7b13b1c.css?body=1" for 66.249.64.31 at 2017-06-17 00:03:06 +0000
+Cannot render console from 66.249.64.31! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 66.249.64.31 at 2017-06-17 00:03:07 +0000
+Cannot render console from 66.249.64.31! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 183.129.160.229 at 2017-06-17 00:38:01 +0000
+Cannot render console from 183.129.160.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (20.7ms)
+  Rendered creatives/_portfolio.html.erb (3.6ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.6ms)
+  Rendered creatives/index.html.erb within layouts/creative (29.3ms)
+Completed 200 OK in 67ms (Views: 66.6ms)
+
+
+Started GET "/" for 107.193.192.125 at 2017-06-17 00:49:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.1ms)
+  Rendered creatives/_services.html.erb (21.4ms)
+  Rendered creatives/_portfolio.html.erb (3.6ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.8ms)
+  Rendered creatives/index.html.erb within layouts/creative (30.3ms)
+Completed 200 OK in 70ms (Views: 70.3ms)
+
+
+Started GET "/assets/creative/creative.self-52101b9d7a2a6712170da3d1e60ffd0869ed9b0fc5f83387c685f418cb5961bc.css?body=1" for 107.193.192.125 at 2017-06-17 00:49:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/font_awesome.self-fd90094892657a5396a180451e35662e84d921cf80bd9389e8536f3b0e61a2e5.css?body=1" for 107.193.192.125 at 2017-06-17 00:49:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-538413f2cf001655557422253196a01792ad30eff3f21d3b66bcef96d7b13b1c.css?body=1" for 107.193.192.125 at 2017-06-17 00:49:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/animate.min.self-d04e1da8392d69e638ac341edf534822660cf7dd95d0edb0e1b8e072f8ffea7a.css?body=1" for 107.193.192.125 at 2017-06-17 00:49:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-10d0842ad7cee9931716511b25975c40f4ec7d1c0c06ebced476d5def759da58.css?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (32.1ms)
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/1-a9398f0106ae37f2b40b2c224a7f8c91abfb3056a1e1e9b64031f3af1c8b5ece.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for 107.193.192.125 at 2017-06-17 00:49:32 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 66.249.64.2 at 2017-06-17 01:46:09 +0000
+Cannot render console from 66.249.64.2! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.2ms)
+  Rendered creatives/_header.html.erb (0.2ms)
+  Rendered creatives/_bg_primary.html.erb (0.2ms)
+  Rendered creatives/_services.html.erb (111.6ms)
+  Rendered creatives/_portfolio.html.erb (4.4ms)
+  Rendered creatives/_call_to_action.html.erb (0.2ms)
+  Rendered creatives/_contact.html.erb (3.2ms)
+  Rendered creatives/index.html.erb within layouts/creative (125.3ms)
+Completed 200 OK in 189ms (Views: 181.7ms)
+
+
+Started GET "/" for 8.36.123.218 at 2017-06-17 03:34:28 +0000
+Cannot render console from 8.36.123.218! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as */*
+  Rendered creatives/_navbar.html.erb (0.2ms)
+  Rendered creatives/_header.html.erb (0.2ms)
+  Rendered creatives/_bg_primary.html.erb (0.3ms)
+  Rendered creatives/_services.html.erb (37.4ms)
+  Rendered creatives/_portfolio.html.erb (4.4ms)
+  Rendered creatives/_call_to_action.html.erb (0.3ms)
+  Rendered creatives/_contact.html.erb (3.4ms)
+  Rendered creatives/index.html.erb within layouts/creative (60.1ms)
+Completed 200 OK in 116ms (Views: 116.1ms)
+
+
+Started GET "/" for 123.125.71.47 at 2017-06-17 10:58:22 +0000
+Cannot render console from 123.125.71.47! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as */*
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (35.1ms)
+  Rendered creatives/_portfolio.html.erb (6.7ms)
+  Rendered creatives/_call_to_action.html.erb (0.4ms)
+  Rendered creatives/_contact.html.erb (4.6ms)
+  Rendered creatives/index.html.erb within layouts/creative (59.5ms)
+Completed 200 OK in 115ms (Views: 114.8ms)
+
+
+Started GET "/" for 107.193.192.125 at 2017-06-17 11:19:50 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (24.9ms)
+  Rendered creatives/_portfolio.html.erb (4.3ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (3.3ms)
+  Rendered creatives/index.html.erb within layouts/creative (35.3ms)
+Completed 200 OK in 77ms (Views: 76.3ms)
+
+
+Started GET "/assets/bootstrap.self-538413f2cf001655557422253196a01792ad30eff3f21d3b66bcef96d7b13b1c.css?body=1" for 107.193.192.125 at 2017-06-17 11:19:51 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/font_awesome.self-fd90094892657a5396a180451e35662e84d921cf80bd9389e8536f3b0e61a2e5.css?body=1" for 107.193.192.125 at 2017-06-17 11:19:51 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/animate.min.self-d04e1da8392d69e638ac341edf534822660cf7dd95d0edb0e1b8e072f8ffea7a.css?body=1" for 107.193.192.125 at 2017-06-17 11:19:51 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-52101b9d7a2a6712170da3d1e60ffd0869ed9b0fc5f83387c685f418cb5961bc.css?body=1" for 107.193.192.125 at 2017-06-17 11:19:51 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-10d0842ad7cee9931716511b25975c40f4ec7d1c0c06ebced476d5def759da58.css?body=1" for 107.193.192.125 at 2017-06-17 11:19:51 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:51 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:51 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:52 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:52 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:52 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:52 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:52 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:52 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:52 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:52 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:52 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 107.193.192.125 at 2017-06-17 11:19:52 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 107.193.192.125 at 2017-06-17 11:19:53 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (4.8ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (20.9ms)
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/1-a9398f0106ae37f2b40b2c224a7f8c91abfb3056a1e1e9b64031f3af1c8b5ece.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+
+
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+
+
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (18.6ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (16.2ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (56.2ms)
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for 107.193.192.125 at 2017-06-17 11:19:54 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for 107.193.192.125 at 2017-06-17 11:19:55 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/" for 183.129.160.229 at 2017-06-17 13:18:34 +0000
+Cannot render console from 183.129.160.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (22.1ms)
+  Rendered creatives/_portfolio.html.erb (3.7ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.8ms)
+  Rendered creatives/index.html.erb within layouts/creative (31.2ms)
+Completed 200 OK in 75ms (Views: 74.4ms)
+
+
+Started GET "/sitemap.xml" for 66.249.66.143 at 2017-06-17 19:33:48 +0000
+Cannot render console from 66.249.66.143! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/sitemap.xml"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (16.6ms)
+
+
+Started GET "/" for 60.191.38.77 at 2017-06-17 22:00:46 +0000
+Cannot render console from 60.191.38.77! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (21.8ms)
+  Rendered creatives/_portfolio.html.erb (3.6ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.7ms)
+  Rendered creatives/index.html.erb within layouts/creative (30.5ms)
+Completed 200 OK in 69ms (Views: 68.6ms)
+
+
+Started GET "/hndUnblock.cgi" for 187.183.214.246 at 2017-06-17 23:32:41 +0000
+Cannot render console from 187.183.214.246! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/hndUnblock.cgi"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (16.6ms)
+
+
+Started GET "/tmUnblock.cgi" for 187.183.214.246 at 2017-06-17 23:32:42 +0000
+Cannot render console from 187.183.214.246! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/tmUnblock.cgi"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (16.2ms)
+
+
+Started GET "/" for 183.129.160.229 at 2017-06-18 03:34:18 +0000
+Cannot render console from 183.129.160.229! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (21.8ms)
+  Rendered creatives/_portfolio.html.erb (3.2ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.4ms)
+  Rendered creatives/index.html.erb within layouts/creative (29.9ms)
+Completed 200 OK in 72ms (Views: 71.4ms)
+
+
+Started GET "/jm-ajax/upload_file/" for 149.202.207.121 at 2017-06-18 03:43:14 +0000
+Cannot render console from 149.202.207.121! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/jm-ajax/upload_file"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (16.2ms)
+
+
+Started GET "/components/com_foxcontact/" for 149.202.207.121 at 2017-06-18 03:43:14 +0000
+Cannot render console from 149.202.207.121! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/components/com_foxcontact"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (16.1ms)
+
+
+Started GET "/" for 108.174.5.115 at 2017-06-18 13:39:34 +0000
+Cannot render console from 108.174.5.115! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (20.4ms)
+  Rendered creatives/_portfolio.html.erb (3.6ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.7ms)
+  Rendered creatives/index.html.erb within layouts/creative (29.3ms)
+Completed 200 OK in 69ms (Views: 68.6ms)
+
+
+Started GET "/" for 107.193.192.125 at 2017-06-18 13:43:29 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.0ms)
+  Rendered creatives/_header.html.erb (0.0ms)
+  Rendered creatives/_bg_primary.html.erb (0.0ms)
+  Rendered creatives/_services.html.erb (22.0ms)
+  Rendered creatives/_portfolio.html.erb (3.7ms)
+  Rendered creatives/_call_to_action.html.erb (0.0ms)
+  Rendered creatives/_contact.html.erb (2.8ms)
+  Rendered creatives/index.html.erb within layouts/creative (30.9ms)
+Completed 200 OK in 73ms (Views: 72.4ms)
+
+
+Started GET "/assets/bootstrap.self-538413f2cf001655557422253196a01792ad30eff3f21d3b66bcef96d7b13b1c.css?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/font_awesome.self-fd90094892657a5396a180451e35662e84d921cf80bd9389e8536f3b0e61a2e5.css?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/animate.min.self-d04e1da8392d69e638ac341edf534822660cf7dd95d0edb0e1b8e072f8ffea7a.css?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-52101b9d7a2a6712170da3d1e60ffd0869ed9b0fc5f83387c685f418cb5961bc.css?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-10d0842ad7cee9931716511b25975c40f4ec7d1c0c06ebced476d5def759da58.css?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for 107.193.192.125 at 2017-06-18 13:43:30 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/images/creative/badges/mong.jpg" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/images/creative/badges/mong.jpg"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (32.0ms)
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/1-a9398f0106ae37f2b40b2c224a7f8c91abfb3056a1e1e9b64031f3af1c8b5ece.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for 107.193.192.125 at 2017-06-18 13:43:31 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/bootstrap.css.map" for 107.193.192.125 at 2017-06-18 13:43:46 +0000
+Cannot render console from 107.193.192.125! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+ActionController::RoutingError (No route matches [GET] "/assets/bootstrap.css.map"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.2.1) lib/web_console/middleware.rb:31:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/rack/thread_handler_extension.rb:97:in `process_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:152:in `accept_and_process_next_request'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler/thread_handler.rb:113:in `main_loop'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/request_handler.rb:416:in `block (3 levels) in start_threads'
+  passenger (5.1.5) src/ruby_supportlib/phusion_passenger/utils.rb:113:in `block in create_thread_and_abort_on_exception'
+
+
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.5ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /home/ubuntu/.rvm/gems/ruby-2.2.4/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (16.4ms)
+=======
 >>>>>>> 5f34ebe485813513c2ebb099ccd7f1bd6e265806
+>>>>>>> e0c3368ce2c4e7828a72363c1c2426b93e88c02f
