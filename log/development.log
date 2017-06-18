@@ -46628,3 +46628,127 @@ Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e
 
 
 Started GET "/assets/WWFEJOuP-1bcbdac38233af94014e2d7c9b75d27f03fca4c97e6e41d64c2352e25a466cba.ico" for ::1 at 2017-06-16 16:42:35 -0500
+
+
+Started GET "/" for ::1 at 2017-06-18 09:07:04 -0500
+Processing by CreativesController#index as HTML
+  Rendered creatives/_navbar.html.erb (0.4ms)
+  Rendered creatives/_header.html.erb (0.5ms)
+  Rendered creatives/_bg_primary.html.erb (0.5ms)
+  Rendered creatives/_services.html.erb (357.8ms)
+  Rendered creatives/_portfolio.html.erb (27.6ms)
+  Rendered creatives/_call_to_action.html.erb (0.6ms)
+  Rendered creatives/_contact.html.erb (20.0ms)
+  Rendered creatives/index.html.erb within layouts/creative (443.9ms)
+Completed 200 OK in 845ms (Views: 819.9ms)
+
+
+Started GET "/assets/bootstrap.self-538413f2cf001655557422253196a01792ad30eff3f21d3b66bcef96d7b13b1c.css?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/animate.min.self-d04e1da8392d69e638ac341edf534822660cf7dd95d0edb0e1b8e072f8ffea7a.css?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/font_awesome.self-fd90094892657a5396a180451e35662e84d921cf80bd9389e8536f3b0e61a2e5.css?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/manifest.self-10d0842ad7cee9931716511b25975c40f4ec7d1c0c06ebced476d5def759da58.css?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/creative.self-6ee3422a0acf124794d69bb51fe499252d4243b08b04d947a47cfef51f4fb55d.css?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/cbpAnimatedHeader.self-b361597222bdd19120baa62007b868abdb95aec3b1151778e66ecca9ecf7d4d3.js?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/bootstrap.self-6c92f650931beefe48977f272b7015d6b9b45da8b09831ebf88e05193c12d355.js?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/classie.self-019022bf65520a1e46fee7828f81deadfbb423ca6bb2300f4ae098aa4936cc41.js?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/jquery.easing.min.self-79ac7c3a6472f91ca2821e8757c324a33f27ae8eb0ba8cfb1c5b3c851f63ea80.js?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/jquery.fittext.self-abe5071b8f0af1501250f665a40d72159f2cf9f5ca252b02d845d97a617c1e77.js?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/wow.min.self-f5ec19d5d2e8c14076e51853699bde6509e9a7576b760b5d8d835d2ebaf431a4.js?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/creative.self-f16d3f8db1b9d01c54bcd29fc9101b6e041be2a984020afaf227b7c857aa7f2d.js?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/manifest.self-636159b35205da4142a43bc02d2849d77d3ac07a0946211585cde15a9c6ff21f.js?body=1" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/js-a5c8093d5ce2b772b019b8c8d39a820051b1df024d38249fcfc9304f2670b43c.jpg" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/ruby-2c9859bf75a38df0a9df84c8220370d4f0e9817af71572e1f751ed9c7bab94ff.jpg" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/python-910da61c7691275a9e248e5b8ed60cc3bb93251a560c2111a7a79c5d36924457.jpg" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/django-f5423b66fbcca66ad45188ac846812381a7d06b7c6b25434b4b07e7009fc9525.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/MEAN-Icon-c8c5790c5c3b5237b88d73187cf3612ddddbe63c06c9a1e9ea876eba22ced3cb.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/flask-f111a4b0088f80d72d8be663db80fbf213e0d7641c6db717445160fce850116d.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/images-1-78316cbf5504306c70b04ab48958140eef4ea1d4ed7bb9fccd8914a1231869ea.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/postgres-514eb9e42d1bf9cd8da1c03d0035a264432c799185873494dd5e41c665395035.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/mongo-58fd8fcf349f4492677b05efcc6aa240a70692114835d9eeeacb5251ec368d2a.jpg" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/sqlite-b4eba50ea8f8b15aad698bf2f09041604da321b6e04dae2bfef5055b952337a3.jpg" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/mysql-cacd85a3ec02014de47d0032f0373465a41cb8b53ed6793094ba0b7aa24bde14.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/download-3ee73904bff0a68df38b18c3b5ae223529329ba3d75708817f8781456d84df1e.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/download-1-4a8f51a75fcdaa5a54c6325ac07d5839e1991be87a26487ce6245c4f8fb09bd1.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/images-c6414a66226fe7439915003e0f32ac0a1c6d88882687ce3eadbfeeb986284438.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/responsive-83ae0d5a7584e4ba89ee6d5f3cc5c4cdd759f8ca61bdbbd3f98741eddfb4f58f.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/aws-85a76457fb0dbb75fb6ae6d600f5136f7bfc6e9591a9c95841db494b8a821cde.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/portfolio/1-a9398f0106ae37f2b40b2c224a7f8c91abfb3056a1e1e9b64031f3af1c8b5ece.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/portfolio/heart-3d9708823e3bb4b00748a1e8c1ad452efcace98f9a10f1ce29647c3f73ff46e2.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/portfolio/6-c16202c5945d6c5dc2631437188e35cd309b65fb4a2dc639b8d06023fba00a6b.jpg" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/github-15b8da60aca959ca7dec250c9a51c7f13eccb4de2c8ce25ef503f953f3943ed8.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/creative/badges/linkedin-5fd0abd17610274abe1468f76609b4d79e8483cab9b6f89a9a1dd9d35c90c9c9.png" for ::1 at 2017-06-18 09:07:05 -0500
+
+
+Started GET "/assets/WWFEJOuP-1bcbdac38233af94014e2d7c9b75d27f03fca4c97e6e41d64c2352e25a466cba.ico" for ::1 at 2017-06-18 09:07:06 -0500
